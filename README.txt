@@ -8,6 +8,6 @@ or
 bash compile.sh
 
 or compile using :
-gcc QueueSimulation.cpp -o QueueSimulation -lglut -lGLU -lGL -lm
+g++ QueueSimulation.cpp -o QueueSimulation -lglut -lGLU -lGL -lm
 
 
